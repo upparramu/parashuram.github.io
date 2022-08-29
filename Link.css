@@ -1,0 +1,56 @@
+h1,h2 {
+    color: red;
+    text-decoration: underline ;
+    text-transform: uppercase;
+
+    
+}
+h1{
+    padding: 20px 10px;
+    border: 5px double black;
+    margin-left: 20px;
+}
+.box {
+  border: 5px solid rgb(179, 239, 13);
+  height: 100px;
+  width: 800px;
+}
+
+
+
+div{
+color: blue;
+}
+.UserName{
+color: green;
+}
+#ContactNumber{
+color: black;
+}
+.Date {
+color: black;
+}
+.Enter {
+color: black;
+}
+div:hover{
+color: blueviolet;
+background-color: aqua;
+}
+div {
+color: green;
+}
+div p{
+    color: aqua;
+}
+
+
+
+
+body {
+    background-image:url("C:\\Users\\hp\\Downloads\\plain.jpg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+   }
